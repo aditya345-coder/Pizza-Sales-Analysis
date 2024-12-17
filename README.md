@@ -93,6 +93,7 @@ The analysis focuses on the following questions:
 ---
 
 ## Preview of Analysis  
+![image](https://github.com/user-attachments/assets/8d94d086-7c27-43fd-989f-ef94e65b1aba)
 
 ---
 
