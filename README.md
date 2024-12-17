@@ -28,7 +28,7 @@ The dataset, downloaded from [Maven Analytics](https://mavenanalytics.io/challen
 
 ```
 ├── reports                          <- Final reports/results of this project.
-│   └── PizzaSalesReport.pdf         <- PDF report with final analysis.
+│   └── PizzaSales.pdf         <- PDF report with final analysis.
 │   └── PizzaSales.pbix              <- Power BI report file.
 │   └── Pizza Sales SQL Queries.pdf  <- Query report for verification.
 │
@@ -69,12 +69,12 @@ The analysis focuses on the following questions:
 ## Summary of Findings  
 
 ### Most Occupied Days and Months  
-- **Days:** Orders peak on Fridays and Saturdays, especially in the evening.  
+- **Days:** Orders peak on Fridays, Saturdays and Thrusday especially in the evening.  
 - **Months:** January and July see the highest number of orders.  
 
 ### Sales Performance  
-- **Category:** Classical pizzas dominate sales and total orders.  
-- **Size:** Large pizzas contribute the most to revenue.  
+- **Category:** Classical pizzas dominate total orders.
+- **Size:** Large pizzas contribute the most to revenue.
 
 ### Best Sellers  
 - **Revenue:** Thai Chicken Pizza leads in revenue.  
@@ -93,6 +93,7 @@ The analysis focuses on the following questions:
 ---
 
 ## Preview of Analysis  
+![image](https://github.com/user-attachments/assets/8d94d086-7c27-43fd-989f-ef94e65b1aba)
 
 ---
 
@@ -108,7 +109,7 @@ The analysis focuses on the following questions:
    Open `PizzaSales.pbix` in Power BI to explore the dashboards and visualizations.  
 
 4. **Final Reports**:  
-   Review findings in `PizzaSalesReport.pdf` for a summarized analysis.  
+   Review findings in `PizzaSales.pdf` for a summarized analysis.  
 
 ---
 
