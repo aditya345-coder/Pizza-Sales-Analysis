@@ -28,7 +28,7 @@ The dataset, downloaded from [Maven Analytics](https://mavenanalytics.io/challen
 
 ```
 ├── reports                          <- Final reports/results of this project.
-│   └── PizzaSalesReport.pdf         <- PDF report with final analysis.
+│   └── PizzaSales.pdf         <- PDF report with final analysis.
 │   └── PizzaSales.pbix              <- Power BI report file.
 │   └── Pizza Sales SQL Queries.pdf  <- Query report for verification.
 │
